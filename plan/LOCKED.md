@@ -5,7 +5,5 @@ The next two weeks are locked. The coach can still modify them in response to at
 Beyond the lock window, the coach can revise weeks freely as new information arrives.
 
 ## Currently locked
-<!--
-List week IDs (matching plan/weeks/week_YYYY-Www.md filenames). Update as weeks
-roll forward. Empty until the first plan is generated.
--->
+- 2026-W18 (partial — Sat 2026-05-02 to Sun 2026-05-03)
+- 2026-W19 (Mon 2026-05-04 to Sun 2026-05-10)

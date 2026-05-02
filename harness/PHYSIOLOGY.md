@@ -1,28 +1,29 @@
 # Physiology and biomechanics
 
-<!--
-Body-side facts that affect prescription: foot type, mobility flags, asymmetries,
-known weaknesses, prior PT diagnoses. The coach uses this to bias toward or away
-from specific session types and to anticipate likely failure modes.
--->
-
 ## Foot and gait
-- arch_type:                  # high | neutral | flat
-- pronation_pattern:          # over | neutral | under
-- known_gait_observations:
+- arch_type: flat (slight)
+- pronation_pattern: neutral (per 2023 gait analysis)
+- known_gait_observations: <!-- none reported -->
 
 ## Mobility
-- ankle_dorsiflexion:         # adequate / limited / unknown
-- hip_flexor_tightness:
-- hamstring_flexibility:
-- thoracic_mobility:
+- ankle_dorsiflexion: not formally tested; no reported limitation
+- hip_flexor_tightness: present, sitting-related (desk job)
+- hamstring_flexibility: not specified
+- thoracic_mobility: not specified
 
 ## Asymmetries
-<!-- Leg length discrepancy, dominant-side weakness, etc. -->
+- weak right glute medius (PT diagnosis 2023, contributing factor in Achilles issue)
 
 ## Known weak points
-<!-- Recurring tightness, prior PT diagnoses, areas that historically flare up. -->
+- Right glute med — historical
+- Hip flexors — chronic tightness from sitting
+- Achilles — historical chronic mild tendinopathy (resolved); watchpoint
 
 ## Cardiovascular / metabolic
-- known_conditions:           # any cardiac, respiratory, or metabolic flags
-- medications_relevant_to_training:
+- known_conditions: none reported
+- medications_relevant_to_training: none reported
+
+## Coach implications
+- Include 2x/week strength work emphasizing single-leg glute med (clamshells, side-lying leg raises, single-leg deadlift, lateral band walks). Stub skill — light prescription; expand later.
+- Pre-run dynamic warmup with hip flexor mobility (couch stretch, 90/90, world's greatest stretch).
+- Eccentric calf raises 2x/week as Achilles maintenance, even when asymptomatic.

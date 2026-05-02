@@ -1,45 +1,36 @@
 # Constraints
 
-<!--
-Anything that bounds the plan: schedule, equipment, terrain, climate, travel,
-injuries (active and historical). Coach reads this every turn.
--->
-
 ## Weekly availability
-- days_available:           # e.g., Mon, Tue, Wed, Thu, Sat, Sun
-- protected_days:           # rest enforced
-- typical_run_window:       # morning / lunch / evening
-- typical_run_duration_cap: # how much time they have on a normal day
-- long_run_day:
+- days_available: Mon, Tue, Wed, Thu, Sat, Sun
+- protected_days: Friday (kid pickup + date night, no exceptions)
+- typical_run_window: morning (~75 min before work)
+- typical_run_duration_cap: 75 min weekdays; weekends flexible
+- long_run_day: Sunday
 
 ## Schedule variability
-<!-- Travel, work cycles, family commitments that shift week to week. -->
+<!-- to be captured in chat as it arises -->
 
 ## Active injuries
-<!--
-Append entries here as the athlete reports issues, with date, location,
-severity, and what action was taken.
-Format:
-## YYYY-MM-DD — <location>
-- severity: <mild | moderate | severe>
-- description: <what it feels like>
-- action: <what the coach changed in the plan>
-- resolved: <YYYY-MM-DD or "not yet">
--->
+<!-- none currently active -->
 
 ## Historical injuries
-<!-- Anything that put them out for >2 weeks. Stress fractures especially. -->
+## 2023 — Achilles
+- severity: chronic mild tendinopathy
+- description: gradual onset, mild morning stiffness and run-onset pain
+- action: 6 weeks off running, PT-guided eccentric loading (Alfredson protocol), gradual return-to-run
+- resolved: yes — currently asymptomatic
+- coach implication: bias against high-volume speedwork early in any block; isometric/eccentric calf maintenance is encouraged; watch for any reappearance and apply `acute_achilles_no_speedwork` rule immediately if symptoms return
 
 ## Equipment
-- shoes_in_rotation:
-- gps_watch:
-- hr_strap:
-- treadmill_access:
-- gym_access:
+- shoes_in_rotation: not specified at onboarding
+- gps_watch: yes (implied — has HR data and pace data)
+- hr_strap: not specified (max HR measured suggests yes or chest strap during testing)
+- treadmill_access: yes, dislikes
+- gym_access: not specified
 
 ## Environment
-- typical_terrain:          # road | trail | track | mixed
-- climate:
-- altitude:
-- access_to_track:
-- access_to_pool:
+- typical_terrain: road (95%); occasional Chicago lakefront path
+- climate: Chicago — full seasonal range; Oct race weather typically 45–55°F
+- altitude: sea level
+- access_to_track: not specified — but dislikes group track sessions; will run intervals on her own
+- access_to_pool: not specified

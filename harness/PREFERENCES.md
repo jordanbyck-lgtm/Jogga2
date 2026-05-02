@@ -1,33 +1,26 @@
 # Preferences
 
-<!--
-What worked, what didn't, surface preferences, persona pick. Tone-only stuff
-plus information about what kinds of training the athlete will actually stick
-with.
--->
-
 ## Coach persona
-- selected:                   # jordan | syd | christine | unknown
-<!-- jordan = plain, direct, technical (default). syd = doesn't like running, loves sleeping in. christine = sassy. -->
+- selected: jordan
 
 ## Surface and setting
-- preferred_surface:          # road | trail | track | mixed
-- group_or_solo:
-- music_preference:
-- typical_time_of_day:
-- treadmill_tolerance:        # love it / fine / hate it
-- weather_floor:              # coldest the athlete will run in
-- weather_ceiling:             # hottest the athlete will run in
+- preferred_surface: road (95%); occasional Chicago lakefront path
+- group_or_solo: solo (strong preference)
+- music_preference: music or podcasts on easy days
+- typical_time_of_day: morning
+- treadmill_tolerance: hate it; max ~4 mi grudgingly when weather forces it
+- weather_floor: comfortable in 30s°F; will run colder if dressed right
+- weather_ceiling: not specified; Chicago summers will be a constraint to manage
 
 ## Training history — what worked
-<!-- Approaches, plans, coaches, structures the athlete found effective. -->
+- Pfitzinger 18/55 buildup to Chicago 2025 (got her to 3:27)
 
 ## Training history — what didn't
-<!-- Approaches the athlete bailed on or felt got them hurt or burned out. -->
+<!-- not specified -->
 
 ## Workout type preferences
-- favorite_quality_session:
-- least_favorite_quality_session:
-- comfortable_with_intervals:
-- comfortable_with_hill_reps:
-- comfortable_with_long_progressions:
+- favorite_quality_session: not specified
+- least_favorite_quality_session: group track sessions
+- comfortable_with_intervals: yes, prefers solo (will run on her own, not in a group)
+- comfortable_with_hill_reps: not specified
+- comfortable_with_long_progressions: not specified — Pfitz background suggests yes (marathon-pace long runs)
