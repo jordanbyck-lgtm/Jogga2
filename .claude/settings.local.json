@@ -1,0 +1,34 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "WebSearch",
+      "WebFetch",
+      "Edit(./harness/**)",
+      "Edit(./plan/**)",
+      "Write(./harness/**)",
+      "Write(./plan/**)",
+      "Bash(python3 scripts/*.py:*)",
+      "Bash(git status)",
+      "Bash(git diff:*)",
+      "Bash(git log:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [
+      "Edit(./CLAUDE.md)",
+      "Edit(./ONBOARDING.md)",
+      "Edit(./rules/**)",
+      "Edit(./skills/**)",
+      "Edit(./literature/**)",
+      "Write(./CLAUDE.md)",
+      "Write(./ONBOARDING.md)",
+      "Write(./rules/**)",
+      "Write(./skills/**)",
+      "Write(./literature/**)",
+      "Write(./.claude/**)"
+    ]
+  }
+}
