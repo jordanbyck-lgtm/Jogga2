@@ -1,36 +1,55 @@
 # Constraints
 
 ## Weekly availability
-- days_available: Mon, Tue, Wed, Thu, Sat, Sun
-- protected_days: Friday (kid pickup + date night, no exceptions)
-- typical_run_window: morning (~75 min before work)
-- typical_run_duration_cap: 75 min weekdays; weekends flexible
-- long_run_day: Sunday
+- days_available: all 7
+- protected_days: none
+- typical_run_window: not specified — flexible
+- typical_run_duration_cap: not specified
+- long_run_day: Sunday (default; flexible if life requires)
+- runs_per_week_target: 4–5
+- lift_days: Mon (Lift B — glute/unilateral), Thu (Lift C — bilateral/hinge, post-run same day)
+- climbing: 1–2x/week base phase; drops to 1x in build, 0–1x in peak; trip 2026-10-04 to 2026-10-11
 
-## Schedule variability
-<!-- to be captured in chat as it arises -->
+## Job / lifestyle
+- 50 hr/week desk job. Sitting load is a contributor to hip-flexor tightness and posterior-chain dormancy.
 
-## Active injuries
-<!-- none currently active -->
+## Active monitors / soft injuries
+## Achilles tendinopathy — recurring (active monitor)
+- history: chronic recurring, most recent flare in last 4 weeks of Brooklyn Half 2025 buildup
+- last_episode: 2026-04-29 — 2/10 twinge during/after a moderate run with low-Z3 effort and a hill. Returned to baseline by next morning.
+- current_state: managed, asymptomatic at rest, no morning stiffness >5 min reported.
+- contributing_factors: posterior chain weakness ("sleepy butt syndrome"), tight hip flexors, lazy glutes, poor ankle dorsiflexion mobility, desk job
+- ongoing_management: active PT, daily 2×15 bilateral calf raises, 2x/wk weighted SL calf raises, dorsiflexion mobility, glute activation pre-run
+- coach implication: bias toward firm/rockered shoes (Saucony Endorphin Azura is daily trainer, good Achilles offload at toe-off). Avoid soft-surface running early (research suggests increased Achilles risk on soft surfaces). Avoid trails and hills until phase 2+. Hold off on speedwork that loads the Achilles eccentrically (true intervals, fast finish long runs) until W22+ AND symptom-free for 2+ weeks. Field test deferred to W21.
 
-## Historical injuries
-## 2023 — Achilles
-- severity: chronic mild tendinopathy
-- description: gradual onset, mild morning stiffness and run-onset pain
-- action: 6 weeks off running, PT-guided eccentric loading (Alfredson protocol), gradual return-to-run
-- resolved: yes — currently asymptomatic
-- coach implication: bias against high-volume speedwork early in any block; isometric/eccentric calf maintenance is encouraged; watch for any reappearance and apply `acute_achilles_no_speedwork` rule immediately if symptoms return
+## Hamstring strains (historical)
+- two prior strains; most recent ~2025-05 (~1 year ago)
+- coach implication: Nordic curls 2x/wk ongoing for hamstring protection. Avoid sudden surges/sprint efforts on cold legs.
 
 ## Equipment
-- shoes_in_rotation: not specified at onboarding
-- gps_watch: yes (implied — has HR data and pace data)
-- hr_strap: not specified (max HR measured suggests yes or chest strap during testing)
-- treadmill_access: yes, dislikes
-- gym_access: not specified
+- shoes_in_rotation:
+  - daily trainer: Saucony Endorphin Azura (firm, high-stack, rockered — Achilles-friendly at toe-off)
+  - easy/long alternate: Salomon Aero Glide 3 GRVL
+  - trail: Norda 001A (limited use, easy short runs only, not phase 1)
+  - race day: Adidas Adios Pro 4 OR Nike Alphafly 3 (purchase by July; train 30–50 mi in them before race)
+- gps_watch: yes (HR data and pace data)
+- hr_strap: implied yes (chest strap data quality from race)
+- gym_access: yes (lifting equipment per strength program)
 
 ## Environment
-- typical_terrain: road (95%); occasional Chicago lakefront path
-- climate: Chicago — full seasonal range; Oct race weather typically 45–55°F
+- typical_terrain: NYC pavement (Central Park, Riverside Park); some bridle path possible on short easy runs only
+- climate: NYC — full seasonal range; Nov race weather typically 45–55°F; summer training heat is a constraint
 - altitude: sea level
-- access_to_track: not specified — but dislikes group track sessions; will run intervals on her own
-- access_to_pool: not specified
+- access_to_track: not specified — sub-threshold work is timed/effort-based, not pace-pinned, so track is optional
+
+## Hard rules (athlete-stated, treated as binding)
+- Easy runs are easy: HR <165, target 145–162. No grey zone.
+- Daily calf protocol non-negotiable.
+- Nordic curls 2x/wk ongoing for hamstring protection.
+- Sleep 7.5+ hrs.
+- Achilles pain monitoring: ≤3/10 during exercise acceptable; must return to baseline by next morning. Morning stiffness >30 min = cut volume 30%.
+- Never skip warmup before quality.
+- Never lift heavy day before quality run or long run.
+- New shoes broken in over 20–30 mi before quality use.
+- No racing or quality work in untested shoes.
+- Cutback every 4th week.
