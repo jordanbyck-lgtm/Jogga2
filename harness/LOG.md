@@ -64,3 +64,14 @@ Format:
 - sleep_hrs: null
 - soreness: mild
 - notes: 1 mi shake-out + activations, then Lift C. Slightly sore from yesterday's run (note: athlete logged this run as 5/3 AM — there may be a date offset; carrying through as recorded). Lift C adjustments: deadlift held at 135 (no progression), 2 sets only, weighted SL calf raises SKIPPED (Achilles caution), sliders/Nordics caution. Schedule swap: Lift B moved from Mon 5/4 → Thu 5/7; Mon becomes full rest.
+
+## 2026-05-04
+- type: easy
+- distance_mi: 1.5
+- duration_min: null
+- avg_pace: null
+- avg_hr: null
+- perceived_effort: null
+- sleep_hrs: null
+- soreness: mild
+- notes: planned 3 easy; actual 1.5 mi run/walk with GF (sore). Modified the rest of W19 in response: pushed ST from Tue → Wed for an extra easy day.
