@@ -75,3 +75,25 @@ Format:
 - sleep_hrs: null
 - soreness: mild
 - notes: planned 3 easy; actual 1.5 mi run/walk with GF (sore). Modified the rest of W19 in response: pushed ST from Tue → Wed for an extra easy day.
+
+## 2026-05-05
+- type: easy
+- distance_mi: 3.5
+- duration_min: null
+- avg_pace: null
+- avg_hr: null
+- perceived_effort: null
+- sleep_hrs: null
+- soreness: null
+- notes: 3.5 mi easy (planned 3).
+
+## 2026-05-06
+- type: easy
+- distance_mi: 3.8
+- duration_min: null
+- avg_pace: null
+- avg_hr: null
+- perceived_effort: null
+- sleep_hrs: null
+- soreness: null
+- notes: 3.8 mi with 3 × 20s strides. Planned ST swapped to easy + strides because Achilles felt "a little weird" Sun night and Mon. No tenderness AM Wed or during/after run. Conservative call by athlete.
