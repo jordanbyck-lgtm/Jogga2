@@ -15,11 +15,12 @@ Durability bias throughout. Achilles is the limiting tissue; posterior-chain wea
 - **W19–W26 (8 wk) — Base rebuild.** 19 → 28 mpw. 1 quality (sub-threshold) per week. Long run 6 → 12 mi. Strides 2x/wk. Hill strides introduced W23. Cutbacks W22 and W26.
 - **W27–W30 (4 wk) — Early build.** 30 → 36 mpw. Add a true second quality (threshold intervals). Long run 12 → 16. Cutback W30.
 - **W31–W39 (9 wk) — Marathon-specific build.** 38 → 45 mpw. MP segments enter long runs. Threshold + MP work as the two quality sessions. Cutback W34. Half tune-up W36 (Sep 5). Cutback-style week post-half W37 if needed.
-- **W40–W44 (5 wk) — Peak + climbing trip + taper.**
-  - W40: peak week, 47 mpw, last 20–22 mi long run on Sat/Sun before flying out.
-  - W41–W42 (Oct 5–11): climbing trip. Easy 4–5 mi most days, no quality. Acts as natural cutback.
-  - W43: taper week 1. One last MP/threshold session, long run reduced.
-  - W44: race week. Race Sun.
+- **W40–W44 (5 wk) — Peak + 3-week taper.**
+  - W40: build week, 45 mpw, 18 mi LR with MP segments.
+  - W41: peak week, 47 mpw, 22 mi LR with MP segments (peak LR 3 weeks pre-race).
+  - W42: taper 1, ~38 mpw (−20%), 1 threshold + MP LR 16.
+  - W43: taper 2, ~28 mpw (−40%), 1 short threshold, LR 12 (4 MP).
+  - W44: race week. Race Sun Nov 1.
 
 ## Weekly totals (sketch — unlocked weeks revisable)
 | ISO Wk | Dates | Phase | Volume (mi) | Long run (mi) | Quality |
@@ -45,13 +46,13 @@ Durability bias throughout. Achilles is the limiting tissue; posterior-chain wea
 | W37 | Sep 7–13 | Recovery from HM | 32 | 12 | 1 easy quality |
 | W38 | Sep 14–20 | Specific 5 | 42 | 18 (8 MP) | 1 thresh + MP LR |
 | W39 | Sep 21–27 | Specific 6 | 45 | 20 (8 MP) | 1 thresh + MP LR |
-| W40 | Sep 28–Oct 4 | Peak | 47 | 22 (last big LR Sat Oct 3) | 1 thresh |
-| W41 | Oct 5–11 | Climbing trip | ~25 | 5–7 (easy) | none |
+| W40 | Sep 28–Oct 4 | Build | 45 | 18 (6 MP) | 1 thresh + MP LR |
+| W41 | Oct 5–11 | Peak | 47 | 22 (8 MP) | 1 thresh + MP LR |
 | W42 | Oct 12–18 | Taper 1 | 38 | 16 | 1 thresh + small MP |
 | W43 | Oct 19–25 | Taper 2 | 28 | 12 (4 MP) | 1 short threshold |
 | W44 | Oct 26–Nov 1 | Race week | 18 + race | RACE Sun | shake-out + strides only |
 
-Cutback cadence: every 4th week (W22, W26, W30, W34, plus the climbing trip serving the role in W41).
+Cutback cadence: every 4th week (W22, W26, W30, W34, W38).
 
 ## Quality session evolution
 - **W19–W22:** 1 ST (sub-threshold) per week. Effort-based (Z3 ceiling, RPE 6–7), short intervals (3–4 min reps with 1 min jog). NOT pace-pinned because paces will recalibrate post-field-test and post-10K.
@@ -81,8 +82,7 @@ Athlete-supplied estimates from HM HR data:
 3. **Volume rebuild** — current 14–15 mpw to 47 mpw peak = 3x. Cutbacks every 4th week mandatory. Watch for HR drift on easy days.
 4. **Goal pace gap** — sub-3:00 requires +5 VDOT from PR fitness. If W36 half is not ≥1:25, recalibrate to 3:05 / 3:10. Athlete already aligned on this.
 5. **Sub-38 10K (June)** — aspirational. Holding plan structure regardless of 10K result; we'll use it as data, not a failure mode.
-6. **Climbing trip W41–W42** — pulls fitness slightly but acts as cutback. NYCM still gets a proper 2-week taper (W43–W44).
-7. **47 mpw ceiling** — low for sub-3:00. Honest tradeoff for durability. Reassessment point at W36 half.
+6. **47 mpw ceiling** — low for sub-3:00. Honest tradeoff for durability. Reassessment point at W36 half.
 
 ## Field test plan (W21, May 18–24)
 - 30-min all-out continuous time trial on a flat route. Ideally Wed of W21 if Achilles is silent.

@@ -15,10 +15,8 @@
 
 ## Tertiary
 - Maintain durability through the block. Achilles silent, hamstrings silent.
-- Climbing fitness preserved enough to enjoy the Oct 4–11 trip. Not a performance target.
 
 ## Coach notes
 - HM PR is 1:31:14 (Oct 2025) → VDOT ~52, predicted marathon ~3:11 from PR fitness. Sub-3:00 requires VDOT ~57: a +5 jump while rebuilding, with Achilles risk and a 47 mpw peak ceiling. The goal is plausible but not free.
 - Most realistic outcome window: 3:03–3:10. Hold sub-3 as the A target through W36; recalibrate after the half.
 - Volume ceiling (47 mpw) is on the lower end for a sub-3 goal (typical: 50–65 mpw). Athlete prefers durability over max volume — defensible tradeoff that constrains the upside.
-- Climbing trip Oct 4–11 (W41–W42) is a constraint, not an unknown. Plan treats it as natural early-taper cutback.

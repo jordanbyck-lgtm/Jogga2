@@ -8,7 +8,7 @@
 - long_run_day: Sunday (default; flexible if life requires)
 - runs_per_week_target: 4–5
 - lift_days: Mon (Lift B — glute/unilateral), Thu (Lift C — bilateral/hinge, post-run same day)
-- climbing: 1–2x/week base phase; drops to 1x in build, 0–1x in peak; trip 2026-10-04 to 2026-10-11
+- climbing: 1–2x/week base phase; drops to 1x in build, 0–1x in peak
 
 ## Job / lifestyle
 - 50 hr/week desk job. Sitting load is a contributor to hip-flexor tightness and posterior-chain dormancy.

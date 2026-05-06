@@ -23,7 +23,7 @@
 - gaps_or_layoffs: significantly detrained since Oct 2025 — last 10 weeks averaged 7 mpw (5,8,3,11,10,2,7,11,7,5), longest run 5.5 mi. Restarted structured training 2026-04-20.
 
 ## Other athletic background
-- Climbing: 8 years experience, prior V8. Currently 1–2x/week climbing, deprioritized for marathon focus. 1-week climbing trip planned 2026-10-04 to 2026-10-11.
+- Climbing: 8 years experience, prior V8. Currently 1–2x/week climbing, deprioritized for marathon focus.
 
 ## Persona note
 - Athlete name "Jordan" is the same first name as the default coach persona (Coach Jordan). They are distinct: Jordan = athlete; Coach Jordan = AI persona.
