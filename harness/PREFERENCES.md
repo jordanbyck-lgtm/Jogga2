@@ -15,9 +15,9 @@
 - weather_ceiling: NYC summer heat will be a managed constraint mid-block
 
 ## Training philosophy / approach
-- Athlete-stated: 80/20 polarized intensity; durability-first
-- Athlete-stated: Norwegian singles framing was a working hypothesis — not dogma. Coach is free to deviate.
-- Coach-aligned: 1 quality (sub-threshold) per week through W22; second stimulus (hill strides) added W23–W26; true 2x quality from W27. Marathon-specific work (MP segments, MP intervals) from W31. Fast-finish long runs reserved for marathon-specific phase to protect Achilles.
+- 80/20 polarized intensity; durability-first.
+- 1 quality (sub-threshold) per week through W22; second stimulus (hill strides) added W23–W26; true 2x quality from W27. Marathon-specific work (MP segments, MP intervals) from W31. Fast-finish long runs reserved for marathon-specific phase to protect Achilles.
+- At current volume (16–25 mpw through base phase), priorities are: mileage growth #1, strength/durability #2, ST as a tolerance probe #3. ST becomes the dominant fitness lever around W27 when volume supports it.
 
 ## Workout type preferences
 - comfortable_with_intervals: yes (per athlete framing)
