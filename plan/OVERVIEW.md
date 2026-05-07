@@ -1,70 +1,90 @@
 # Plan overview
 
 ## Block purpose
-23-week buildup to Chicago Marathon 2026 (Sun 2026-10-11). Goal: sub-3:20 (7:38/mi). Stretch: sub-3:18.
+26-week buildup to **NYC Marathon, Sun 2026-11-01**.
+A goal: **sub-3:00** (6:51 /mi). B: 3:05. C: 3:10. Decision point: half tune-up Sat 2026-09-05.
+
+Durability bias throughout. Achilles is the limiting tissue; posterior-chain weakness and hamstring history are secondary risks. Volume ceiling intentionally moderate (~47 mpw peak) to protect tissue.
 
 ## Block duration
-- start_week: 2026-W18 (week of 2026-04-27, partial — starting Sat 2026-05-02)
-- end_week: 2026-W41 (race week, Sun 2026-10-11)
-- total_weeks: 23 (W18 through W41 inclusive)
+- start_week: 2026-W19 (Mon 2026-05-04)
+- end_week: 2026-W44 (race week, Sun 2026-11-01)
+- total_weeks: 26 (W19 through W44 inclusive)
 
 ## Mesocycle structure
-- **W18–W22 (5 wk) — Base rebuild.** 30 → 40 mpw. 1 quality session/wk (fartlek → tempo). Long run 12 → 14. Reintroduce strides + eccentric calf maintenance.
-- **W23–W26 (4 wk) — Endurance.** 42 → 48 mpw. Add a midweek medium-long run. Long run 14 → 18. 1 quality.
-- **W27 — Recovery week.** ~36 mpw. No second quality.
-- **W28–W31 (4 wk) — Lactate threshold.** 45 → 50 mpw. 2 quality (LT continuous + LT intervals; medium-long with MP segments). Long run 18 → 20.
-- **W32 — Recovery week.** ~38 mpw.
-- **W33–W35 (3 wk) — Race specific.** 48 → 52 mpw. MP-segment long runs. 2 quality. Half-marathon tune-up race in W34 (target ~1:35 ≈ VDOT 51).
-- **W36 — Recovery week.** ~40 mpw.
-- **W37–W38 (2 wk) — Peak.** 53–55 mpw. Last 20-mile long run in W37.
-- **W39–W40 (2 wk) — Taper.** Volume −20% then −40%. Maintain quality intensity, cut volume. Last hard session ~10 days out.
-- **W41 — Race week.** ~25 mpw + race Sun 10/11.
+- **W19–W26 (8 wk) — Base rebuild.** 19 → 28 mpw. 1 quality (sub-threshold) per week. Long run 6 → 12 mi. Strides 2x/wk. Hill strides introduced W23. Cutbacks W22 and W26.
+- **W27–W30 (4 wk) — Early build.** 30 → 36 mpw. Add a true second quality (threshold intervals). Long run 12 → 16. Cutback W30.
+- **W31–W39 (9 wk) — Marathon-specific build.** 38 → 45 mpw. MP segments enter long runs. Threshold + MP work as the two quality sessions. Cutback W34. Half tune-up W36 (Sep 5). Cutback-style week post-half W37 if needed.
+- **W40–W44 (5 wk) — Peak + 3-week taper.**
+  - W40: build week, 45 mpw, 18 mi LR with MP segments.
+  - W41: peak week, 47 mpw, 22 mi LR with MP segments (peak LR 3 weeks pre-race).
+  - W42: taper 1, ~38 mpw (−20%), 1 threshold + MP LR 16.
+  - W43: taper 2, ~28 mpw (−40%), 1 short threshold, LR 12 (4 MP).
+  - W44: race week. Race Sun Nov 1.
 
-## Weekly totals (sketch)
-| ISO Wk | Phase | Volume (mi) | Long run (mi) | Quality |
-| ------ | ----- | ----------: | ------------: | ------- |
-| W18 | Base (partial) | ~17 | 12 | none |
-| W19 | Base | 36 | 13 | fartlek 6×1 |
-| W20 | Base | 38 | 14 | fartlek 8×1 |
-| W21 | Base | 40 | 12 (cutback) | tempo 4 mi |
-| W22 | Base | 40 | 14 | tempo 4 mi |
-| W23 | Endurance | 42 | 15 | tempo 5 mi |
-| W24 | Endurance | 45 | 16 | LT 2×2 mi |
-| W25 | Endurance | 47 | 17 | LT 4×1 mi |
-| W26 | Endurance | 48 | 18 | LT 2×2.5 mi |
-| W27 | Recovery | 36 | 13 | tempo 3 mi |
-| W28 | LT focus | 45 | 18 | LT 5 mi continuous |
-| W29 | LT focus | 48 | 19 | LT 2×3 mi |
-| W30 | LT focus | 50 | 20 | LT 6 mi continuous |
-| W31 | LT focus | 50 | 18 (cutback) | LT 3×2 mi |
-| W32 | Recovery | 38 | 13 | tempo 4 mi |
-| W33 | Specific | 48 | 19 (4 @ MP) | MP intervals |
-| W34 | Specific | 45 | tune-up HM (~13.1) | HM race |
-| W35 | Specific | 52 | 20 (8 @ MP) | LT 2×3 mi |
-| W36 | Recovery | 40 | 14 | tempo 4 mi |
-| W37 | Peak | 53 | 20 (10 @ MP) | LT 6 mi + MP int. |
-| W38 | Peak | 55 | 18 (8 @ MP) | LT 4×1.5 mi |
-| W39 | Taper | 44 | 14 | LT 3×1.5 mi |
-| W40 | Taper | 32 | 10 (4 @ MP) | LT 2×1 mi |
-| W41 | Race | 25 + race | RACE | none pre-race |
+## Weekly totals (sketch — unlocked weeks revisable)
+| ISO Wk | Dates | Phase | Volume (mi) | Long run (mi) | Quality |
+| ------ | --- | --- | ---: | ---: | --- |
+| W19 | May 4–10 | Base 1 | 19 | 6 | 1 ST (intro, 4×3 min) |
+| W20 | May 11–17 | Base 2 | 22 | 6.5–7 | 1 ST (4×4 min) |
+| W21 | May 18–24 | Base 3 | 24 | 8 | 1 ST + 30-min field test |
+| W22 | May 25–31 | Cutback | 19 | 6 | 1 ST light |
+| W23 | Jun 1–7 | Base 4 | 25 | 9 | 1 ST + hill strides |
+| W24 | Jun 8–14 | Base 5 | 27 | 10 | 1 ST + hill strides |
+| W25 | Jun 15–21 | Base 6 | 28 | 11 | 1 ST + hill strides |
+| W26 | Jun 22–28 | Cutback / 10K race week | 22 | (10K race or 7) | 10K time trial OR 1 ST |
+| W27 | Jun 29–Jul 5 | Build 1 | 30 | 12 | 1 ST + 1 threshold |
+| W28 | Jul 6–12 | Build 2 | 32 | 13 | 1 ST + 1 threshold |
+| W29 | Jul 13–19 | Build 3 | 34 | 14 | 1 ST + 1 threshold |
+| W30 | Jul 20–26 | Cutback | 28 | 11 | 1 quality |
+| W31 | Jul 27–Aug 2 | Specific 1 | 36 | 14 (3 MP) | 1 thresh + 1 MP segment LR |
+| W32 | Aug 3–9 | Specific 2 | 38 | 16 (4 MP) | 1 thresh + MP LR |
+| W33 | Aug 10–16 | Specific 3 | 40 | 17 (5 MP) | 1 thresh + MP LR |
+| W34 | Aug 17–23 | Cutback | 32 | 13 | 1 thresh |
+| W35 | Aug 24–30 | Specific 4 | 42 | 18 (6 MP) | 1 thresh + MP LR |
+| W36 | Aug 31–Sep 6 | Tune-up week | 36 | HM tune-up Sep 5 (~13.1) | HM @ MP-effort |
+| W37 | Sep 7–13 | Recovery from HM | 32 | 12 | 1 easy quality |
+| W38 | Sep 14–20 | Specific 5 | 42 | 18 (8 MP) | 1 thresh + MP LR |
+| W39 | Sep 21–27 | Specific 6 | 45 | 20 (8 MP) | 1 thresh + MP LR |
+| W40 | Sep 28–Oct 4 | Build | 45 | 18 (6 MP) | 1 thresh + MP LR |
+| W41 | Oct 5–11 | Peak | 47 | 22 (8 MP) | 1 thresh + MP LR |
+| W42 | Oct 12–18 | Taper 1 | 38 | 16 | 1 thresh + small MP |
+| W43 | Oct 19–25 | Taper 2 | 28 | 12 (4 MP) | 1 short threshold |
+| W44 | Oct 26–Nov 1 | Race week | 18 + race | RACE Sun | shake-out + strides only |
 
-## Key milestone weeks
-- **W21, W27, W32, W36** — recovery weeks (volume −20–30%, intensity reduced)
-- **W34** — half-marathon tune-up race (used to update VDOT and goal pace)
-- **W37** — peak long run (20 mi with 10 @ MP)
-- **W41** — race
+Cutback cadence: every 4th week (W22, W26, W30, W34, W38).
 
-## Pace targets (current, will update post-tune-up)
-Derived from current VDOT 46 (recent 22:30 5K) — these will revise upward as fitness rebuilds:
-- E (easy): 8:30–9:00 /mi
-- M (marathon, current fitness): 7:55 /mi
-- M (goal pace, race): 7:38 /mi
-- T (threshold): 7:30 /mi (current); ~7:00 /mi at peak fitness (VDOT 51)
-- I (intervals, 5K pace): 7:14 /mi (current); ~6:35 /mi at peak fitness
-- R (repetition): not in current prescription
+## Quality session evolution
+- **W19–W22:** 1 ST (sub-threshold) per week. Effort-based (Z3 ceiling, RPE 6–7), short intervals (3–4 min reps with 1 min jog). NOT pace-pinned because paces will recalibrate post-field-test and post-10K.
+- **W21:** 30-min field test (W19's twinge has 3 weeks to settle; volume has stabilized). Updates LTHR and threshold pace.
+- **W23–W26:** 1 ST + 1 set of **hill strides** (8–10 × 10–12s on a moderate incline, walk down). Low Achilles eccentric load, neuromuscular benefit, transferable to NYCM hills.
+- **W27–W30:** 1 ST + 1 threshold (continuous tempo or longer reps at LT pace). True second quality.
+- **W31–W39:** 1 threshold + 1 MP-specific session. MP first appears as segments embedded in the long run, then progresses to MP intervals.
+- **W40–W44:** Cut to 1 quality. Maintain intensity, slash volume.
+
+## Long run progression (with constraints)
+- 30-day max single run as of 2026-05-03 = 6.25 mi (today's run). All long-run prescriptions check `progression_single_run_jump` (≤110% of 30-day max).
+- 6 → 22 mi over 22 progression long runs (excluding cutbacks and races). Avg growth ~0.7 mi per progression run. Well under 10% cap throughout.
+- MP segments enter at W31 — small (3 mi) and grow to 8 mi by W39.
+
+## Pace targets (current — will recalibrate after W21 field test and June 10K)
+Athlete-supplied estimates from HM HR data:
+- E (easy): 8:30–9:30 /mi (HR 145–162)
+- ST (sub-threshold): 6:55–7:05 — **defer pace-pinning until W21 test; use Z3 effort + HR cap (168–176) until then**
+- T (threshold): 6:35–6:45
+- I (5K pace / VO2): 6:05–6:20
+- M (goal MP): 6:51 (sub-3:00) / 7:04 (3:05) / 7:15 (3:10)
+- R (repetition): 5:45–5:55
 
 ## Risk flags
-1. Achilles history (resolved 2023). Eccentric calf maintenance scheduled 2x/wk through the block. Any flare → `acute_achilles_no_speedwork` rule fires immediately, plan pivots.
-2. 6 days/wk + work + protected Friday = no buffer. Bias rest decisions conservatively.
-3. Volume nearly doubles over the block (30 → 55). Recovery weeks placed every 4–5 weeks to manage.
-4. Goal pace requires +16 sec/mi over PR. The W34 tune-up half is the decision point: if it doesn't suggest VDOT 50+, dial goal back to 3:25.
+1. **Achilles** — recurring tendinopathy, twinge 2026-04-29 (2/10, resolved by AM). All speedwork that loads Achilles eccentrically (true intervals, fast-finish LRs) deferred until W22+ AND 2 weeks symptom-free. `acute_achilles_no_speedwork` rule active monitor; fires if AM stiffness >5–10 min, sharp pain, or swelling.
+2. **Hamstring history** — 2 prior strains. No cold sprints. Nordic curls 2x/wk ongoing per Lift B/C.
+3. **Volume rebuild** — current 14–15 mpw to 47 mpw peak = 3x. Cutbacks every 4th week mandatory. Watch for HR drift on easy days.
+4. **Goal pace gap** — sub-3:00 requires +5 VDOT from PR fitness. If W36 half is not ≥1:25, recalibrate to 3:05 / 3:10. Athlete already aligned on this.
+5. **Sub-38 10K (June)** — aspirational. Holding plan structure regardless of 10K result; we'll use it as data, not a failure mode.
+6. **47 mpw ceiling** — low for sub-3:00. Honest tradeoff for durability. Reassessment point at W36 half.
+
+## Field test plan (W21, May 18–24)
+- 30-min all-out continuous time trial on a flat route. Ideally Wed of W21 if Achilles is silent.
+- Measures: avg HR for 30 min ≈ LTHR. Avg pace ≈ ~T pace + ~5–10 sec/mi (Daniels approximation).
+- If anything hurts: abort, log, no retest until symptom-free.
