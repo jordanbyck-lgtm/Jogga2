@@ -89,11 +89,11 @@ Format:
 
 ## 2026-05-06
 - type: easy
-- distance_mi: 3.8
-- duration_min: null
-- avg_pace: null
-- avg_hr: null
+- distance_mi: 3.92
+- duration_min: 37.2
+- avg_pace: 9:30/mi (main lap 9:13/mi)
+- avg_hr: 152 (main lap 148)
 - perceived_effort: null
 - sleep_hrs: null
 - soreness: null
-- notes: 3.8 mi with 3 × 20s strides. Planned ST swapped to easy + strides because Achilles felt "a little weird" Sun night and Mon. No tenderness AM Wed or during/after run. Conservative call by athlete.
+- notes: 3.92 mi total. Main easy lap: 2.56 mi @ 9:13/mi @ HR 148 — faster and lower-HR than baseline estimate (10:00/mi @ 150). Then 3 × strides (~5:00–5:30/mi, 13–25s each, HR 158–162). 0.9 mi cooldown @ 10:50/mi @ HR 156. ~3 min above HR 160 during warmup, max 163. No Achilles issues during/after. Planned ST swapped to easy + strides because Achilles felt "weird" Sun night and Mon. Conservative call by athlete; aerobic fitness signal positive.
